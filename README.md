@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Baraka Kasamba</h1>
 <h3 align="center">Information Security Practitioner from Kenya</h3>
+<h2 align="center">Lower skill attackers trip the alarms we set to look for the kind of things that attackers do and users don't. Users in the sales department generally don't execute base64 encoded PowerShell against production servers.</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianbarakakasamba&label=Profile%20views&color=0e75b6&style=flat" alt="brianbarakakasamba" /> </p>
 
