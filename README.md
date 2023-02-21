@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Baraka Kasamba</h1>
 <h3 align="center">Information Security Practitioner from Kenya</h3>
-<h2 align="center">Lower skill attackers trip the alarms we set to look for the kind of things that attackers do and users don't. Users in the sales department generally don't execute base64 encoded PowerShell against production servers.</h2>
+<h3 align="center">Lower skill attackers trip the alarms we set to look for the kind of things that attackers do and users don't. Users in the sales department generally don't execute base64 encoded PowerShell against production servers. I have been a GNU/Linux enthusiast since my early college days with keen interests in networking, cloud computing, self-hosting and operating systems. Having been diagnosed with an acute distro-hopping syndrome, I have tried a multitude of GNU/Linux distributions before settling for Fedora Workstation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brianbarakakasamba&label=Profile%20views&color=0e75b6&style=flat" alt="brianbarakakasamba" /> </p>
 
